@@ -1,0 +1,174 @@
+{
+  "main": {
+    "name": "Ayush Namdeo",
+    "shortDesc": "Dedicated technology enthusiast with expertise in software development and data science, proficient in Python, Linux, and web technologies. Actively pursuing a Bachelor of Technology in Artificial Intelligence.",
+    "titles": [
+      "ERP Developer Intern",
+      "Martin Program Intern",
+      "Full-Stack Development Intern",
+      "UI/UX Design Intern",
+      "Machine Learning Developer",
+      "Natural Language Processing Intern"
+    ],
+    "heroImage": "https://firebasestorage.googleapis.com/v0/b/portfolio-be987.appspot.com/o/profile2.jpg?alt=media&token=25174c2f-db6e-49e5-8c6d-049b00442420",
+    "techStackImages": [
+      "https://img.icons8.com/color/144/000000/material-ui.png",
+      "https://img.icons8.com/color/144/000000/html-5--v1.png",
+      "https://img.icons8.com/color/144/000000/redux.png",
+      "https://img.icons8.com/color/144/000000/chakra-ui.png"
+    ]
+  },
+  "about": {
+    "aboutImage": "https://firebasestorage.googleapis.com/v0/b/portfolio-be987.appspot.com/o/profile2.jpg?alt=media&token=25174c2f-db6e-49e5-8c6d-049b00442420",
+    "aboutImageCaption": "Artificial Intelligence Aspirant 🚀",
+    "title": "Artificial Intelligence Aspirant",
+    "about": "With a strong foundation in software development and data science, I am proficient in Python, Linux, and web technologies, focusing on enhancing system efficiencies and developing innovative solutions. Committed to lifelong learning, I'm pursuing a Bachelor of Technology in Artificial Intelligence.",
+    "callUrl": "",
+    "resumeUrl": "https://drive.google.com/file/d/1GGUuokjqixDhnErWnIFd9RbaEQbhJnhV/view"
+  },
+  "socials": [
+    {
+      "icon": "FaLinkedin",
+      "link": "https://www.linkedin.com/in/ayush-kumar-namdeo"
+    },
+    {
+      "icon": "FaGithub",
+      "link": "https://github.com/ayushnamdeo02"
+    },
+    {
+      "icon": "FaInstagram",
+      "link": "https://www.instagram.com/ayushnamdeo02"
+    },
+    {
+      "icon": "FaTwitter",
+      "link": "https://twitter.com/ayushkumar2707"
+    }
+  ],
+  "skills": [
+    {
+      "name": "JavaScript",
+      "image": "https://img.icons8.com/color/144/000000/javascript--v1.png",
+      "category": "Programming Languages"
+    },
+    {
+      "name": "Python",
+      "image": "https://img.icons8.com/color/144/000000/python--v1.png",
+      "category": "Programming Languages"
+    },
+    {
+      "name": "ReactJS",
+      "image": "https://img.icons8.com/color/144/000000/react-native.png",
+      "category": "Frameworks & Libraries"
+    },
+    {
+      "name": "Linux",
+      "image": "https://img.icons8.com/color/144/000000/linux--v1.png",
+      "category": "Operating Systems"
+    },
+    {
+      "name": "HTML5",
+      "image": "https://img.icons8.com/color/144/000000/html-5--v1.png",
+      "category": "Web Development"
+    },
+    {
+      "name": "CSS3",
+      "image": "https://img.icons8.com/color/144/000000/css3.png",
+      "category": "Web Development"
+    },
+    {
+      "name": "Node.js",
+      "image": "https://img.icons8.com/color/144/000000/nodejs.png",
+      "category": "Backend Development"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Sales Forecasting for Retail",
+      "techstack": "Python, Scikit-Learn",
+      "category": "Data Science",
+      "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-be987.appspot.com/o/sales.png?alt=media&token=731cce33-214b-4955-8f3f-6c460841705f",
+      "links": {
+        "code": "https://github.com/ayushnamdeo02/Deep-Learning-Based-Sales-Prediction-and-Inventory-Management-for-Grocery-Stores", 
+        "video": "",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Bank Fraud Detection System",
+      "techstack": "Python, TensorFlow, Flask",
+      "category": "Machine Learning",
+      "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-be987.appspot.com/o/bank.png?alt=media&token=2ac09dfd-5514-45d1-ae54-af7da63f039f",
+      "links": {
+        "code": "https://github.com/ayushnamdeo02/Bank-Loan-Fraud-Detection-System-using-ANN",
+        "video": "",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Heeds Foundation Website Development",
+      "techstack": "Python, NextJs, Vercel ,Tailwindcss, Flask",
+      "category": "Web Development",
+      "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-be987.appspot.com/o/heeds.png?alt=media&token=fe2d7932-2ebe-40de-8fe7-9e2b1e2eb81e",
+      "links": {
+        "code": "https://github.com/ayushnamdeo02/Heedsfoundation",
+        "video": "",
+        "visit": ""
+      }
+    }
+  ],
+  "educations": [{
+    "institute": "Kendriya Vidyalaya Chirimiri",
+    "degree": "SSC",
+    "duration": "2017 - 2018",
+    "desc": [
+      "Graduated with Distinction: 71.4%"
+    ]
+  },
+  {
+    "institute": "Kendriya Vidyalaya Chirimiri",
+    "degree": "HSC Science",
+    "duration": "2019 - 2020",
+    "desc": [
+      "Graduated with Distinction: 85%"
+    ]
+  },
+    {
+      "institute": "G H Raisoni Institute of Engineering and Technology Nagpur",
+      "degree": "Bachelor of Technology in Artificial Intelligence",
+      "duration": "2020 - Present",
+      "desc": [
+        "Pursuing with key courses in Advanced Data Analysis, Software Engineering, and Deep Learning in AI."
+      ]
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Procohat",
+      "position": "Full-Stack Development Intern",
+      "duration": "02/2023 – 05/2023",
+      "desc": [
+        "Spearheaded ReactJS and CSS-based front-end development, improving user interface responsiveness by 30%.",
+        "Architected efficient back-end solutions using Node.js and Express, leading to a 25% increase in server response times",
+        "Integrated RESTful APIs, expanding system functionality and third-party service connectivity"
+      ]
+    },
+    {
+      "company": "Persistent Systems",
+      "position": "Summer Intern",
+      "duration": "06/2023 – 08/2023",
+      "desc": [
+        "Completed 40+ hours of professional development webinars broadening industry expertise.",
+        "Excelled in a 2-month intensive self-learning program acquiring advanced skills in Python, Linux, DSA, and Networks."
+      ]
+    },
+    {
+      "company": "Indiba Business Solution",
+      "position": "ERP Developer Intern",
+      "duration": "06/2023 – 12/2023",
+      "desc": [
+        "Engineered a Biometrics Module using Python enhancing ERP functionalities; resulted in a 20% improvement in system efficiency.",
+        "Optimized Linux system enhancing software performance and reliability by 15%."
+      ]
+    }
+  ]
+}
